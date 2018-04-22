@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b0001e5fbcef408469b382933350c0a4
+timeCreated: 1524383703
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Embossing Tape 1 (BRK)
+  fontNames:
+  - Embossing Tape 1 (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
